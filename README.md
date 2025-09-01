@@ -21,7 +21,7 @@ I have audited a wide range of protocols, including:
 ---
 ## 🔐 Private Audits @ CredShields
 
-| Rank | Protocol | Description | Ecosystem | Language | Findings | 📑 |
+|  | Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |------|----------|-------------|-----------|----------|----------|----|
 | 🔥 | Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 10 issues (2C,1H,3M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Safle_Final_Audit_Report.pdf)** |
 | 🔥 | Amgi Studios-2 | NFT Staking, Tokenomics | ♦ EVM | Solidity | 50 issues (16C,7H,7M,20L) | **Soon** |
