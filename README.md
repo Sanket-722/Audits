@@ -66,14 +66,14 @@ I have audited a wide range of protocols, including:
 | 💨 | AllinGames: Roulette | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 issues (0C,0H,0M,2L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf)** |
 ---
 
-## 🏆 Audit Contests
+<!-- ## 🏆 Audit Contests
 
 _Public contest portfolio (coming soon):_
 
 | Report | Description | Critical/High | Medium | Lang-Ecosystem | Platform |
 |--------|-------------|---------------|--------|----------------|----------|
 | — | — | — | — | — | — |
-
+--->
 ---
 
 ## 🔐 Web2 Bug Bounty
