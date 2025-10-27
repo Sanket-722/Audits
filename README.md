@@ -20,7 +20,7 @@ I have audited a wide range of protocols, including:
 
 ---
 
-## Public Audits:
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/563348d5-ce37-4925-86a9-59e4686f9c6f" /> Public Audits:
 
 | Rank | Report                                                                                                                                                                                           | Description           | Critical/High | Medium | Lang-Ecosystem |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------- | ------ | -------------- |
@@ -30,7 +30,7 @@ I have audited a wide range of protocols, including:
 
 
 ---
-## 🔐 Private Audits @ CredShields
+## 🔐 Private Audits @ CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
 
 |  | Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |------|----------|-------------|-----------|----------|----------|----|
