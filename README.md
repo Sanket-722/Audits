@@ -45,7 +45,7 @@ I have audited a wide range of protocols, including:
 | 🔥 | Amgi Studios-1 | NFT Staking, L1<>L2 RollUp | ♦ EVM | Solidity | 22 issues (4C,3H,2M,13L) | **Soon** |
 | 🔥 | Power Couple Coin: Staking | Staking | 🦀 Solana | Rust | 10 issues (4C,0H,2M,4L) | **Soon** |
 | 🔥 | Vouch | Tokenomics | ♦ EVM | Solidity | 24 issues (2C,0H,5M,17L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)** |
-| 🔥 | Tarmiiz | Staking Vault | ♦ EVM | Solidity | 20 issues (2C,3H,4M,11L) | **Soon** |
+| 🔥 | Tarmiiz | Staking Vault | ♦ EVM | Solidity | 20 issues (2C,3H,4M,11L) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Tarmiiz_Final_Audit_Report.pdf)** |
 | 🔥 | DotLabs: Mushi | DeFi, Lending/Borrowing | 🦀 Solana | Rust | 14 issues (1C,3H,4M,6L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Mushi_V2_0_Final_Audit_Report.pdf)** |
 | 🔥 | Power Couple Coin | Staking, Lottery | 🦀 Solana | Rust | 18 issues (6C,0H,3M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf)** |
 | 🔥 | Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 15 issues (6C,0H,3M,6L) | **Soon** |
