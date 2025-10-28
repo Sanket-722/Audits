@@ -22,14 +22,23 @@ I have audited a wide range of protocols, including:
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/563348d5-ce37-4925-86a9-59e4686f9c6f" /> Public Audits:
 
-| Rank | Report                                                                                                                                                                                           | Description           | Critical/High | Medium | Lang-Ecosystem |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------- | ------ | -------------- |
-|      |                                                                                                                                                                                                  |                       |               |        |                |
-|      | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network] (ongoing)                                                                                         | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM          |
-| 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)         | NFT MarketPlace       | 2             | 2      | ♦ EVM          |
+**Web3 Contests And BugBounty**
+| Rank | Report                                                                                                                                                                                           | Description           | Critical/High | Medium |LangEcosystem|
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------- | ------ | -----------| 
+|      | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network] (ongoing)                                                                                         | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
+| 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)         | NFT MarketPlace       | 2             | 2      | ♦ EVM   |
 
+**Web2 BugBounty**
+| Rank | Report                                                                                                                                                                                           | Bug Description | Severity |Application Systeam|
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | -----|-----------------| 
+|      | [University of Twente ](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/#:~:text=1-,sanket%20salavi,-1)      | Information Disclosure | High    | University Webapp  |
+|    |      |        |            |      |    |
 
 ---
+
+
+
+
 ## 🔐 Private Audits @ CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
 
 |  | Protocol | Description | Ecosystem | Language | Findings | 📑 |
@@ -75,6 +84,7 @@ I have audited a wide range of protocols, including:
 | 💨 | AllinGames: Slot | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 4 issues (0C,0H,0M,4L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Slots_Final_Audit_Report.pdf)** |
 | 💨 | HoldPlatform V2 | Token Holding | ♦ EVM | Solidity | 7 issues (0C,0H,3M,4L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/HoldPlatform_Final_Audit_Report.pdf)** |
 | 💨 | AllinGames: Roulette | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 issues (0C,0H,0M,2L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf)** |
+
 ---
 
 <!-- ## 🏆 Audit Contests
