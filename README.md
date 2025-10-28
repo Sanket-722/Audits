@@ -111,5 +111,3 @@ _Public contest portfolio (coming soon):_
 | — | — | — | — | — | — |
 --->
 ---
-
-- 🐦‍🔥 **4 CVEs**: `CVE-2023-3580`, `CVE-2023-0827`, `CVE-2023-1239`, `CVE-2023-1247`   
