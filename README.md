@@ -29,10 +29,25 @@ I have audited a wide range of protocols, including:
 | 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)         | NFT MarketPlace       | 2             | 2      | ♦ EVM   |
 
 **Web2 BugBounty**
-| Rank | Report                                                                                                                                                                                           | Bug Description | Severity |Application Systeam|
+|  | Report                                                                                                                                                                                           | Bug Description | Severity |Application |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | -----|-----------------| 
-|      | [University of Twente ](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/#:~:text=1-,sanket%20salavi,-1)      | Information Disclosure | High    | University Webapp  |
-|    |      |        |            |      |    |
+|   🔥 |    [Stryker](https://bugcrowd.com/h/Sanket_722)  |    3 Bugs - Information Disclosure    |    Critical     |   Webapp    |
+|   🔥 |    [Stryker](https://bugcrowd.com/h/Sanket_722)  |    2 Bugs - Stored and Blind XSS    |    Critical     |   Webapp    |
+|   🔥 |    Ivanti🔒  |   Information Disclosure    |    Critical     |   Webapp    |
+|   🔥 |    [BitGo Managed Public Bug Bounty Engagement](https://bugcrowd.com/h/Sanket_722)  |   Business Logic Vulnerability    |    High     |   Webapp    |
+|   🔥 |    [Decred](https://bounty.decred.org/hall-of-fame/)  |  Improper Restriction of Authentication Attempts    |    High     |   Webapp    |
+|   🔥 |  ChargeOver 🔒  |    SSRF    |    High     |   Webapp    |
+|  ❄️  |    E-GOI 🔒  |    XSS    |    Medium        |  Webapp  |
+|  ❄️  |    [CVE-2023-3580 ](https://nvd.nist.gov/vuln/detail/CVE-2023-3580) |    HTML injection    |    Medium        |  Webapp  |
+|  ❄️  |    [CVE-2023-0827 ](https://nvd.nist.gov/vuln/detail/CVE-2023-0827) |    XSS    |    Medium        |  Webapp  |
+|  ❄️  |    [CVE-2023-1239 ](https://nvd.nist.gov/vuln/detail/CVE-2023-1239) |    XSS    |    Medium        |  Webapp  |
+|  ❄️  |    [Drugs.com](https://hackerone.com/drugs_com/thanks#:~:text=17-,spiderweb7,-17)  |    Improper Authentication - Generic    |    Medium        |   Webapp  |
+|  ❄️  |    [Tennessee Valley Authority](https://hackerone.com/reports/1276559) |    Improper Restriction of Authentication Attempts    |     High       |  Webapp  |
+|  ❄️   | [University of Twente ](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/#:~:text=1-,sanket%20salavi,-1)      | Information Disclosure | High    | Webapp  |
+|  💨  |   [ National Australia Bank](https://bugcrowd.com/engagements/nationalaustraliabankog/hall_of_fames#:~:text=sjv-,Sanket_722,-prok3z)  |    Information Disclosure    |    Low     |   Webapp    |
+|  💨  |    [Kistler Company](https://bugcrowd.com/engagements/kistler-vdp/hall_of_fames#:~:text=Private%20user-,Sanket_722,-nthuong95)  |    Improper Restriction of Attempts    |    Low     |   Webapp    |
+|  💨  | [Thomson Reuters](https://hackerone.com/reports/1219922)     |   Information Disclosure     |    Low     |   Webapp    |
+|   💨 |    Affinity 🔒  |    Information Disclosure    |    Low     |   Webapp    |
 
 ---
 
@@ -97,8 +112,4 @@ _Public contest portfolio (coming soon):_
 --->
 ---
 
-## 🔐 Web2 Bug Bounty
-
-- 🐦‍🔥 **4 CVEs**: `CVE-2023-3580`, `CVE-2023-0827`, `CVE-2023-1239`, `CVE-2023-1247`  
-- ⭐ **Hall of Fame Mentions**: University of Twente, Kistler Company, National Australia Bank, Thomson Reuters, Drugs.com, Stryker.com  
-- 🉑 **Recognitions & Awards**: Google, BitGo, Stryker, Ivanti, Decred, ChargeOver, Wisepops, Airship, E-GOI, MailerSend  
+- 🐦‍🔥 **4 CVEs**: `CVE-2023-3580`, `CVE-2023-0827`, `CVE-2023-1239`, `CVE-2023-1247`   
