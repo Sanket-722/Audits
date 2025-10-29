@@ -57,22 +57,22 @@ I have audited a wide range of protocols, including:
 
 |  | Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |------|----------|-------------|-----------|----------|----------|----|
-| 🔥 | Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 10 issues (2C,1H,3M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Safle_Final_Audit_Report.pdf)** |
-| 🔥 | Amgi Studios-2 | NFT Staking, Tokenomics | ♦ EVM | Solidity | 50 issues (16C,7H,7M,20L) | **Soon** |
-| 🔥 | AllinGames: Bank | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 16 issues (4C,0H,5M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)** |
-| 🔥 | AllinGames: Coin Flip | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 7 issues (1C,1H,0M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Coin_Flip_Final_Audit_Report.pdf)** |
-| 🔥 | AllinGames: Hash Dice | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 7 issues (1C,1H,0M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Hash_Dice_Final_Audit_Report.pdf)** |
-| 🔥 | Save Planet Earth | Staking | ♦ EVM | Solidity | 19 issues (2C,1H,2M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)** |
-| 🔥 | Landslide | ICM (interchain Messaging) | ♦ EVM | Solidity | 12 issues (2C,0H,5M,5L) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Landslide_Final_Audit_Report.pdf)** |
-| 🔥 | Artulabs Limited | Airdrop, SPL Tokens | 🦀 Solana | Rust | 8 issues (1C,2H,3M,1L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Rust_Final_Audit_Report.pdf)** |
-| 🔥 | Amgi Studios-1 | NFT Staking, L1<>L2 RollUp | ♦ EVM | Solidity | 22 issues (4C,3H,2M,13L) | **Soon** |
-| 🔥 | Power Couple Coin: Staking | Staking | 🦀 Solana | Rust | 10 issues (4C,0H,2M,4L) | **Soon** |
-| 🔥 | Vouch | Tokenomics | ♦ EVM | Solidity | 24 issues (2C,0H,5M,17L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)** |
-| 🔥 | Tarmiiz | Staking Vault | ♦ EVM | Solidity | 20 issues (2C,3H,4M,11L) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Tarmiiz_Final_Audit_Report.pdf)** |
-| 🔥 | DotLabs: Mushi | DeFi, Lending/Borrowing | 🦀 Solana | Rust | 14 issues (1C,3H,4M,6L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Mushi_V2_0_Final_Audit_Report.pdf)** |
-| 🔥 | Power Couple Coin | Staking, Lottery | 🦀 Solana | Rust | 18 issues (6C,0H,3M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf)** |
-| 🔥 | Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 15 issues (6C,0H,3M,6L) | **Soon** |
-| 🔥 | Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | Rust | 11 issues (4C,0H,1M,6L) | **Soon** |
+| 🔥 | Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 6 issues (2C,1H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Safle_Final_Audit_Report.pdf)** |
+| 🔥 | Amgi Studios-2 | NFT Staking, Tokenomics | ♦ EVM | Solidity | 30 issues (16C,7H,7M) | **Soon** |
+| 🔥 | AllinGames: Bank | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 9 issues (4C,0H,5M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)** |
+| 🔥 | AllinGames: Coin Flip | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 issues (1C,1H,0M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Coin_Flip_Final_Audit_Report.pdf)** |
+| 🔥 | AllinGames: Hash Dice | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 issues (1C,1H,0M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Hash_Dice_Final_Audit_Report.pdf)** |
+| 🔥 | Save Planet Earth | Staking | ♦ EVM | Solidity | 5 issues (2C,1H,2M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)** |
+| 🔥 | Landslide | ICM (interchain Messaging) | ♦ EVM | Solidity | 7 issues (2C,0H,5M) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Landslide_Final_Audit_Report.pdf)** |
+| 🔥 | Artulabs Limited | Airdrop, SPL Tokens | 🦀 Solana | Rust | 5 issues (1C,2H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Rust_Final_Audit_Report.pdf)** |
+| 🔥 | Amgi Studios-1 | NFT Staking, L1<>L2 RollUp | ♦ EVM | Solidity | 9 issues (4C,3H,2M) | **Soon** |
+| 🔥 | Power Couple Coin: Staking | Staking | 🦀 Solana | Rust | 6 issues (4C,0H,2M) | **Soon** |
+| 🔥 | Vouch | Tokenomics | ♦ EVM | Solidity | 7 issues (2C,0H,5M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)** |
+| 🔥 | Tarmiiz | Staking Vault | ♦ EVM | Solidity | 9 issues (2C,3H,4M) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Tarmiiz_Final_Audit_Report.pdf)** |
+| 🔥 | DotLabs: Mushi | DeFi, Lending/Borrowing | 🦀 Solana | Rust | 8 issues (1C,3H,4M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Mushi_V2_0_Final_Audit_Report.pdf)** |
+| 🔥 | Power Couple Coin | Staking, Lottery | 🦀 Solana | Rust | 9 issues (6C,0H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf)** |
+| 🔥 | Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 9 issues (6C,0H,3M) | **Soon** |
+| 🔥 | Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | Rust | 5 issues (4C,0H,1M) | **Soon** |
 <!-- | ❄️ | Protop Vesting | Vesting | ♦ EVM | Solidity | 8 issues (1C,0H,0M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Audit_Report.pdf)** |
 | ❄️ | BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 issues (2C,0H,3M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)** |
 | ❄️ | Artulabs Limited | Vesting, ERC20 | ♦ EVM | Solidity | 9 issues (0C,1H,2M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Solidity_Final_Audit_Report.pdf)** |
