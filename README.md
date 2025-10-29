@@ -64,7 +64,7 @@ I have audited a wide range of protocols, including:
 | 🔥 | AllinGames: Coin Flip | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 7 issues (1C,1H,0M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Coin_Flip_Final_Audit_Report.pdf)** |
 | 🔥 | AllinGames: Hash Dice | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 7 issues (1C,1H,0M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Hash_Dice_Final_Audit_Report.pdf)** |
 | 🔥 | Save Planet Earth | Staking | ♦ EVM | Solidity | 19 issues (2C,1H,2M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)** |
-| 🔥 | Landslide | ICM (interchain Messaging) | ♦ EVM | Solidity | 12 issues (2C,0H,5M,5L) | **🔒** |
+| 🔥 | Landslide | ICM (interchain Messaging) | ♦ EVM | Solidity | 12 issues (2C,0H,5M,5L) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Landslide_Final_Audit_Report.pdf)** |
 | 🔥 | Artulabs Limited | Airdrop, SPL Tokens | 🦀 Solana | Rust | 8 issues (1C,2H,3M,1L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Rust_Final_Audit_Report.pdf)** |
 | 🔥 | Amgi Studios-1 | NFT Staking, L1<>L2 RollUp | ♦ EVM | Solidity | 22 issues (4C,3H,2M,13L) | **Soon** |
 | 🔥 | Power Couple Coin: Staking | Staking | 🦀 Solana | Rust | 10 issues (4C,0H,2M,4L) | **Soon** |
