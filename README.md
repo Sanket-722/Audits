@@ -44,11 +44,11 @@ I have audited a wide range of protocols, including:
 |  ❄️  |    [Drugs.com](https://hackerone.com/drugs_com/thanks#:~:text=17-,spiderweb7,-17)  |    Improper Authentication - Generic    |    Medium        |   Webapp  |
 |  ❄️  |    [Tennessee Valley Authority](https://hackerone.com/reports/1276559) |    Improper Restriction of Authentication Attempts    |     High       |  Webapp  |
 |  ❄️   | [University of Twente ](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/#:~:text=1-,sanket%20salavi,-1)      | Information Disclosure | High    | Webapp  |
-|  💨  |   [ National Australia Bank](https://bugcrowd.com/engagements/nationalaustraliabankog/hall_of_fames#:~:text=sjv-,Sanket_722,-prok3z)  |    Information Disclosure    |    Low     |   Webapp    |
+<!--|  💨  |   [ National Australia Bank](https://bugcrowd.com/engagements/nationalaustraliabankog/hall_of_fames#:~:text=sjv-,Sanket_722,-prok3z)  |    Information Disclosure    |    Low     |   Webapp    |
 |  💨  |    [Kistler Company](https://bugcrowd.com/engagements/kistler-vdp/hall_of_fames#:~:text=Private%20user-,Sanket_722,-nthuong95)  |    Improper Restriction of Attempts    |    Low     |   Webapp    |
 |  💨  | [Thomson Reuters](https://hackerone.com/reports/1219922)     |   Information Disclosure     |    Low     |   Webapp    |
 |   💨 |    Affinity 🔒  |    Information Disclosure    |    Low     |   Webapp    |
-
+--->
 ---
 
 
@@ -74,7 +74,7 @@ I have audited a wide range of protocols, including:
 | 🔥 | Power Couple Coin | Staking, Lottery | 🦀 Solana | Rust | 18 issues (6C,0H,3M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf)** |
 | 🔥 | Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 15 issues (6C,0H,3M,6L) | **Soon** |
 | 🔥 | Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | Rust | 11 issues (4C,0H,1M,6L) | **Soon** |
-| ❄️ | Protop Vesting | Vesting | ♦ EVM | Solidity | 8 issues (1C,0H,0M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Audit_Report.pdf)** |
+<!-- | ❄️ | Protop Vesting | Vesting | ♦ EVM | Solidity | 8 issues (1C,0H,0M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Audit_Report.pdf)** |
 | ❄️ | BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 issues (2C,0H,3M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)** |
 | ❄️ | Artulabs Limited | Vesting, ERC20 | ♦ EVM | Solidity | 9 issues (0C,1H,2M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Solidity_Final_Audit_Report.pdf)** |
 | ❄️ | Metaco Intelligence Corporation | Restaking | ♦ EVM | Solidity | 13 issues (1C,2H,3M,7L) | **[🔗](http://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)** |
@@ -102,7 +102,7 @@ I have audited a wide range of protocols, including:
 
 ---
 
-<!-- ## 🏆 Audit Contests
+ ## 🏆 Audit Contests
 
 _Public contest portfolio (coming soon):_
 
