@@ -40,14 +40,14 @@ I have audited a wide range of protocols, including:
 |  ❄️  |    [CVE-2023-3580 ](https://nvd.nist.gov/vuln/detail/CVE-2023-3580) |    HTML injection    |    Medium        |  Webapp  |
 |  ❄️  |    [CVE-2023-0827 ](https://nvd.nist.gov/vuln/detail/CVE-2023-0827) |    XSS    |    Medium        |  Webapp  |
 |  ❄️  |    [CVE-2023-1239 ](https://nvd.nist.gov/vuln/detail/CVE-2023-1239) |    XSS    |    Medium        |  Webapp  |
-<!--|  ❄️  |    [Drugs.com](https://hackerone.com/drugs_com/thanks#:~:text=17-,spiderweb7,-17)  |    Improper Authentication - Generic    |    Medium        |   Webapp  |
+|  ❄️  |    [Drugs.com](https://hackerone.com/drugs_com/thanks#:~:text=17-,spiderweb7,-17)  |    Improper Authentication - Generic    |    Medium        |   Webapp  |
 |  ❄️  |    [Tennessee Valley Authority](https://hackerone.com/reports/1276559) |    Improper Restriction of Authentication Attempts    |     High       |  Webapp  |
 |  ❄️   | [University of Twente ](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/#:~:text=1-,sanket%20salavi,-1)      | Information Disclosure | High    | Webapp  |
 |  💨  |   [ National Australia Bank](https://bugcrowd.com/engagements/nationalaustraliabankog/hall_of_fames#:~:text=sjv-,Sanket_722,-prok3z)  |    Information Disclosure    |    Low     |   Webapp    |
 |  💨  |    [Kistler Company](https://bugcrowd.com/engagements/kistler-vdp/hall_of_fames#:~:text=Private%20user-,Sanket_722,-nthuong95)  |    Improper Restriction of Attempts    |    Low     |   Webapp    |
 |  💨  | [Thomson Reuters](https://hackerone.com/reports/1219922)     |   Information Disclosure     |    Low     |   Webapp    |
 |   💨 |    Affinity 🔒  |    Information Disclosure    |    Low     |   Webapp    |
---->
+
 ---
 
 
