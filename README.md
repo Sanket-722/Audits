@@ -24,7 +24,7 @@ I have audited a wide range of protocols, including:
 **Web3 Contests And BugBounty**
 | Rank | Report                                                                                                                                                                                           | Description           | Critical/High | Medium |LangEcosystem|
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------- | ------ | -----------| 
-|      | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network] (ongoing)                                                                                         | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
+|   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)                                                                                         | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
 | 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)         | NFT MarketPlace       | 2             | 2      | ♦ EVM   |
 
 **Web2 BugBounty**
