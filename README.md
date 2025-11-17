@@ -22,10 +22,11 @@ I have audited a wide range of protocols, including:
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/563348d5-ce37-4925-86a9-59e4686f9c6f" /> Public Audits:
 
 **Web3 Contests And BugBounty**
-| Rank | Report                                                                                                                                                                                           | Description           | Critical/High | Medium |LangEcosystem|
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------- | ------ | -----------| 
-|   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)                                                                                         | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
-| 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)         | NFT MarketPlace       | 2             | 2      | ♦ EVM   |
+| Rank | Report | Description |Critical/High | Medium |LangEcosystem|
+| ---- | ------ | ---------- | ------ | -----------| --------|
+| 🥇  | <img src="Icons/superteam.jpg" align="center" width=15 height=15> [Prime Skills (Draft)](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT.pdf)    | GameFi       | 2 | 2 | 🦀 Solana  |
+|   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)  | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
+| 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
 
 **Web2 BugBounty**
 |  | Report                                                                                                                                                                                           | Bug Description | Severity |Application |
