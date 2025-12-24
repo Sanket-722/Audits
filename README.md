@@ -38,6 +38,8 @@ I have audited a wide range of protocols, including:
 | 🔥 | Power Couple Coin | Staking, Lottery | 🦀 Solana | Rust | 9 issues (6C,0H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf)** |
 | 🔥 | Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 9 issues (6C,0H,3M) | **Soon** |
 | 🔥 | Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | Rust | 5 issues (4C,0H,1M) | **Soon** |
+| 🔥 | Zeroxcore | Token Distribution | 🦀 Solana | Rust | 3 issues (0C,0H,3M) | **Soon** |
+| 🔥 | Avail | Chain Abstraction | ♦ EVM | Solidity | 4 issues (1C,0H,3M) | **[🔗](audit-reports/pdfs/Avail_Vault_Final_Audit_Report.pdf)** |
 <!-- | ❄️ | Protop Vesting | Vesting | ♦ EVM | Solidity | 8 issues (1C,0H,0M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Audit_Report.pdf)** |
 | ❄️ | BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 issues (2C,0H,3M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)** |
 | ❄️ | Artulabs Limited | Vesting, ERC20 | ♦ EVM | Solidity | 9 issues (0C,1H,2M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Solidity_Final_Audit_Report.pdf)** |
