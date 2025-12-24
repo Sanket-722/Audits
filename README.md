@@ -74,8 +74,9 @@ I have audited a wide range of protocols, including:
 | ---- | ------ | ---------- | ------ | -----------| --------|
 | 🥇  | <img src="Icons/superteam.jpg" align="center" width=15 height=15> [Prime Skills (Draft)](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)    | GameFi       | 2 | 2 | 🦀 Solana  |
 |   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)  | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
-|   -   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](Coming soon)  | Decentralized Prediction Markets Protocol  | 0             | 2      | ♦ EVM   |
+|   74   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 1             | 2      | ♦ EVM   |
 | 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
+|   20   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Calyx Smart Contract](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 0             | 1      | ♦ EVM   |
 
 **Web2 BugBounty**
 |  | Report                                                                                                                                                                                           | Bug Description | Severity |Application |
