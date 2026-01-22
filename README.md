@@ -18,11 +18,28 @@ I have audited a wide range of protocols, including:
 > ❄️ **Cool Finds** — Notable vulnerabilities
 
 
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/563348d5-ce37-4925-86a9-59e4686f9c6f" /> Public Audits:
+
+**Web3 Contests And BugBounty**
+| Rank | Report | Description |Critical/High | Medium |LangEcosystem|
+| ---- | ------ | ---------- | ------ | -----------| --------|
+| 🥇  | <img src="Icons/superteam.jpg" align="center" width=15 height=15> [Prime Skills (Draft)](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)    | GameFi       | 2 | 2 | 🦀 Solana  |
+|   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)  | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
+|   74   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 1             | 2      | ♦ EVM   |
+| 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
+|   20   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Calyx Smart Contract](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 0             | 1      | ♦ EVM   |
+
+## 🔐 Private Audits with other firms <img src="Icons/credshields.png" align="center" width=35 height=35>
+
+| Firm | Report | Description |Critical/High | Medium |LangEcosystem|
+| ---- | ------ | ---------- | ------ | -----------| --------|
+| Pashov Audits  | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> [SpiceNet Audit](comming soon)    | A transaction submission api | - | - | Typescript |
+
 ## 🔐 Private Audits @ CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
 
 |  | Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |------|----------|-------------|-----------|----------|----------|----|
-| 🔥 | LERN360 |Staking| ♦ EVM | Solidity | 30 issues (6C,10H,8M) | **[🔗](audit-reports/pdfs/LERN360_ICO_Contracts_Final_Audit_Report.pdf)** |
+| 🔥 | LERN360 |Staking| ♦ EVM | Solidity | 24 issues (6C,10H,8M) | **[🔗](audit-reports/pdfs/LERN360_ICO_Contracts_Final_Audit_Report.pdf)** |
 | 🔥 | Fomodotbiz | AMM, Bonding Curve | ♦ EVM | Solidity | 6 issues (3C,0H,3M) | **[🔗](audit-reports/pdfs/Fomodotbiz_Final_Audit_Report.pdf)** |
 | 🔥 | Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 6 issues (2C,1H,3M) | **[🔗](audit-reports/pdfs/Safle_Final_Audit_Report.pdf)** |
 | 🔥 | Amgi Studios-2 | NFT Staking, Tokenomics | ♦ EVM | Solidity | 30 issues (16C,7H,7M) | **Soon** |
@@ -70,17 +87,6 @@ I have audited a wide range of protocols, including:
 --->
 
 ---
-
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/563348d5-ce37-4925-86a9-59e4686f9c6f" /> Public Audits:
-
-**Web3 Contests And BugBounty**
-| Rank | Report | Description |Critical/High | Medium |LangEcosystem|
-| ---- | ------ | ---------- | ------ | -----------| --------|
-| 🥇  | <img src="Icons/superteam.jpg" align="center" width=15 height=15> [Prime Skills (Draft)](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)    | GameFi       | 2 | 2 | 🦀 Solana  |
-|   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)  | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
-|   74   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 1             | 2      | ♦ EVM   |
-| 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
-|   20   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Calyx Smart Contract](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 0             | 1      | ♦ EVM   |
 
 **Web2 BugBounty**
 |  | Report                                                                                                                                                                                           | Bug Description | Severity |Application |
