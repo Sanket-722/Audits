@@ -22,7 +22,9 @@ I have audited a wide range of protocols, including:
 
 |  | Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |------|----------|-------------|-----------|----------|----------|----|
-| 🔥 | Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 6 issues (2C,1H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Safle_Final_Audit_Report.pdf)** |
+| 🔥 | LERN360 |Staking| ♦ EVM | Solidity | 30 issues (6C,10H,8M) | **[🔗](audit-reports/pdfs/LERN360_ICO_Contracts_Final_Audit_Report.pdf)** |
+| 🔥 | Fomodotbiz | AMM, Bonding Curve | ♦ EVM | Solidity | 6 issues (3C,0H,3M) | **[🔗](audit-reports/pdfs/Fomodotbiz_Final_Audit_Report.pdf)** |
+| 🔥 | Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 6 issues (2C,1H,3M) | **[🔗](audit-reports/pdfs/Safle_Final_Audit_Report.pdf)** |
 | 🔥 | Amgi Studios-2 | NFT Staking, Tokenomics | ♦ EVM | Solidity | 30 issues (16C,7H,7M) | **Soon** |
 | 🔥 | AllinGames: Bank | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 9 issues (4C,0H,5M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)** |
 | 🔥 | AllinGames: Coin Flip | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 issues (1C,1H,0M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Coin_Flip_Final_Audit_Report.pdf)** |
@@ -40,6 +42,8 @@ I have audited a wide range of protocols, including:
 | 🔥 | Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | Rust | 5 issues (4C,0H,1M) | **Soon** |
 | 🔥 | Zeroxcore | Token Distribution | 🦀 Solana | Rust | 3 issues (0C,0H,3M) | **Soon** |
 | 🔥 | Avail | Chain Abstraction | ♦ EVM | Solidity | 4 issues (1C,0H,3M) | **[🔗](audit-reports/pdfs/Avail_Vault_Final_Audit_Report.pdf)** |
+| ❄️ | AllinGames: Classic | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 7 issues (1C,0H,1M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Classic_Dice_Final_Audit_Report.pdf)** |
+| ❄️ | AllinGames: Lottery | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 4 issues (2C,0H,1M,1L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Lottery_Final_Audit_Report.pdf)** |
 <!-- | ❄️ | Protop Vesting | Vesting | ♦ EVM | Solidity | 8 issues (1C,0H,0M,7L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Audit_Report.pdf)** |
 | ❄️ | BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 issues (2C,0H,3M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)** |
 | ❄️ | Artulabs Limited | Vesting, ERC20 | ♦ EVM | Solidity | 9 issues (0C,1H,2M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Solidity_Final_Audit_Report.pdf)** |
@@ -51,8 +55,6 @@ I have audited a wide range of protocols, including:
 | ❄️ | mew.gg | AMM | ♦ EVM | Solidity | 11 issues (0C,1H,0M,10L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/mew.gg_Contracts_Final_Audit_Report.pdf)** |
 | ❄️ | LogX | Validator | ♦ EVM | Solidity | 11 issues (3C,2H,2M,4L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/LogX_Token_Final_Report.pdf)** |
 | ❄️ | W3.Labs | Staking Vault | ♦ EVM | Solidity | 13 issues (0C,0H,4M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/W3.labs_Final_Audit_Report.pdf)** |
-| ❄️ | AllinGames: Classic | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 7 issues (1C,0H,1M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Classic_Dice_Final_Audit_Report.pdf)** |
-| ❄️ | AllinGames: Lottery | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 4 issues (2C,0H,1M,1L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Lottery_Final_Audit_Report.pdf)** |
 | ❄️ | Lara Protocol | Staking | ♦ EVM | Solidity | 13 issues (0C,0H,5M,8L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lara_Liquid_Staking_Final_Audit_Report.pdf)** |
 | ❄️ | Arcana: Browser Extenstion | Wallet | ♦ EVM | Solidity | 5 issues (0C,0H,1M,4L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Arcana_Wallet_Final_Audit_Report.pdf)** |
 | 💨 | LERN360 | ERC20 | ♦ EVM | Solidity | 4 issues (0C,2H,0M,2L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/LERNToken_Final_Audit_Report.pdf)** |
