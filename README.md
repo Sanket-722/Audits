@@ -1,7 +1,7 @@
 # 0xRayaa's Security Portfolio
 
 I’m a security researcher specializing in **Solidity**, **Rust** (Solana, CosmWasm), and **Func** (TON) smart contract audits, along with **Web2 application penetration testing**.  
-To date, I’ve conducted **100+ private audits**, including **15+ Rust audits 🦀**, discovered **120+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security assessments and CVEs**.
+To date, I’ve conducted **100+ private audits**, including **15+ Rust audits 🦀**, discovered **120+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** which includes Bugcrowd, HackerOne, CVEs, and government platforms.
 
 I have audited a wide range of protocols, including:  
 **DeFi protocols (AMMs, lending, borrowing), Staking vaults, NFT staking platforms, Tokenomics and reward mechanisms, Token launchers, Vesting and bonding curves, Cross-chain protocols, Governance modules, ERC20 & SPL tokens, Validator systems, Browser wallet extensions, Lottery mechanisms, and GameFi dApps (staking, lotteries, dice, slots).**
@@ -12,9 +12,8 @@ I have audited a wide range of protocols, including:
 
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/563348d5-ce37-4925-86a9-59e4686f9c6f" /> Public Audits:
+## 🔎 Public Audits — Contests & Bug Bounties
 
-**Web3 Contests And BugBounty**
 | Rank | Report | Description |Critical/High | Medium |LangEcosystem|
 | ---- | ------ | ---------- | ------ | -----------| --------|
 | 🥇  | <img src="Icons/superteam.jpg" align="center" width=15 height=15> [Prime Skills (Draft)](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)    | GameFi       | 2 | 2 | 🦀 Solana  |
@@ -23,25 +22,27 @@ I have audited a wide range of protocols, including:
 | 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
 |   20   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Calyx Smart Contract](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 0             | 1      | ♦ EVM   |
 
-## 🔐 Private Audits with other firms 🤝
+---
+## 🔐 Private Audits — Partner Firms
 
 | Firm | Report | Description |Critical/High | Medium |Lang/Ecosystem|
 | ---- | ------ | ---------- | ------ | -----------| --------|
 | Pashov Audits  | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> [SpiceNet Audit](coming soon)    | A Transaction Submission Api | - | - | Typescript |
 | Pashov Audits  | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> [RAAC Audit](coming soon)    | - | - | - | ♦ EVM |
 
-## 🔐 Private Audits @ CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
+---
+## 🔐 Private Audits — CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
 
 
-## 2026
+## 📆 2026 Audits
 Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |----------|-------------|-----------|----------|----------|----|
 Ardentis | Lending, Borrowing (Morpho Fork) | ♦ EVM | Solidity | 7 issues (0C,1H,6M) | **Soon** |
 HeyElsa | Staking | ♦ EVM | Solidity | 5 issues (0C,2H,3M) | **[🔗](audit-reports/pdfs/HeyElsa_Staking_Final_Audit_Report.pdf)** |
- 
+ ---
 
  
-## 2025
+## 📆 2025 Audits
  Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |----------|-------------|-----------|----------|----------|----|
  Save Planet Earth | Staking | ♦ EVM | Solidity | 5 issues (2C,1H,2M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)** |
@@ -75,10 +76,10 @@ HeyElsa | Staking | ♦ EVM | Solidity | 5 issues (0C,2H,3M) | **[🔗](audit-re
  Okidori: Boosterpack | NFT Rewards | ♦ EVM | Solidity | 5 issues (0C,1H,4M) | **[🔗](audit-reports/pdfs/Okidori_Booster_Pack_Final_Report.pdf)** |
  -->
  
+---
 
 
-
-## 2024
+## 📆 2024 Audits
  Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |----------|-------------|-----------|----------|----------|----|
  AllinGames: Bank | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 9 issues (4C,0H,5M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)** |
@@ -112,7 +113,7 @@ HeyElsa | Staking | ♦ EVM | Solidity | 5 issues (0C,2H,3M) | **[🔗](audit-re
 
 ---
 
-**Web2 BugBounty**
+## 🕸️ Web2 Bug Bounties & CVEs
 | Report                                                                                                                                                                                           | Bug Description | Severity |Application |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | -----|-----------------| 
  |[Stryker](https://bugcrowd.com/h/Sanket_722)  |    3 Bugs - Information Disclosure    |    Critical     |   Webapp    |
@@ -145,3 +146,4 @@ _Public contest portfolio (coming soon):_
 | — | — | — | — | — | — |
 --->
 ---
+**Last updated: 2026**
