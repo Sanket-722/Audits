@@ -1,6 +1,6 @@
 # 0xRayaa's Security Portfolio
 
-I’m a security researcher specializing in **Solidity**, **Rust** (Solana, CosmWasm), and **Func** (TON) smart contract audits, along with **Web2 application penetration testing**.  
+I’m a security researcher specializing in **Solidity**, and **Rust** (Solana, CosmWasm) Smart Contract Audits, along with **Web2 application penetration testing**.  
 To date, I’ve conducted **100+ private audits**, including **15+ Rust audits 🦀**, discovered **120+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** which includes Bugcrowd, HackerOne, CVEs, and government platforms.
 
 I have audited a wide range of protocols, including:  
