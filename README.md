@@ -27,8 +27,8 @@ I have audited a wide range of protocols, including:
 
 | Firm | Report | Description |Critical/High | Medium |Lang/Ecosystem| 📑 |
 | ---- | ------ | ---------- | ------ | -----------| --------|----|
-| Pashov Audits  | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> SpiceNet | A Transaction Submission Api | - | - | Typescript |**Soon** |
-| Pashov Audits  | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> RAAC | Token and Minter Contract | - | - | ♦ EVM | **Soon** |
+|<img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  |  SpiceNet | A Transaction Submission Api | - | - | Typescript |**Soon** |
+|  <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | RAAC | Token and Minter Contract | - | - | ♦ EVM | **Soon** |
 
 ---
 ## 🔐 Private Audits — CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
