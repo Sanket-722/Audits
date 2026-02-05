@@ -16,7 +16,6 @@ I have audited a wide range of protocols, including:
 
 | Rank | Report | Description |Critical/High | Medium |LangEcosystem|
 | ---- | ------ | ---------- | ------ | -----------| --------|
-
 |   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)  | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
 |   74   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 1             | 2      | ♦ EVM   |
 | 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
@@ -26,10 +25,10 @@ I have audited a wide range of protocols, including:
 ## 🔐 Private Audits — Firm Engagement Review
 
 | Firm | Report | Description |Critical/High | Medium |Lang/Ecosystem| 📑 |
-| ---- | ------ | ---------- | ------ | -----------| --------|----|
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  |  SpiceNet | A Transaction Submission Api | - | - | Typescript |**Soon** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | RAAC | Token and Minter Contract | - | - | ♦ EVM | **Soon** |
-| <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam | Prime Skills (Draft) | GameFi | - | - | 🦀 Solana | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
+| ----                                                                                  | ------               | ----------                   | ------ | -----------| --------|----|
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | SpiceNet             | A Transaction Submission Api | - | - | Typescript |**Soon** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | RAAC                 | Token and Minter Contract    | - | - | ♦ EVM      | **Soon** |
+| <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam           | Prime Skills (Draft) | GameFi                       | - | - | 🦀 Solana  | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
 
 ---
 ## 🔐 Private Audits — CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
