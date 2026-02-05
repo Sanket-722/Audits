@@ -23,7 +23,7 @@ I have audited a wide range of protocols, including:
 |   20   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Calyx Smart Contract](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 0             | 1      | ♦ EVM   |
 
 ---
-## 🔐 Private Audits — Partner Firms
+## 🔐 Private Audits — Firm Engagement Review
 
 | Firm | Report | Description |Critical/High | Medium |Lang/Ecosystem| 📑 |
 | ---- | ------ | ---------- | ------ | -----------| --------|----|
