@@ -26,7 +26,8 @@ I have audited a wide range of protocols, including:
 
 | Firm | Report | Description |Critical/High | Medium |Lang/Ecosystem| 📑 |
 | ----                                                                                  | ------               | ----------                   | ------ | -----------| --------|----|
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | Nucleus              | Vault Contract               | - | - | ♦ EVM      | **Soon** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | Pump.Fun             | AMM                          | - | - | 🦀 Solana |**Soon** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | Nucleus              | Vault Contract               | - | - | ♦ EVM      | **[🔗](audit-reports/pdfs/Nucleus-security-review_2026-02-03.pdf)** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | RAAC                 | Token and Minter Contract    | - | - | ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | SpiceNet             | A Transaction Submission Api | - | - | Typescript |**Soon** |
 | <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam           | Prime Skills (Draft) | GameFi                       | - | - | 🦀 Solana  | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
@@ -38,9 +39,12 @@ I have audited a wide range of protocols, including:
 ## 📆 2026 Audits
 Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |----------|-------------|-----------|----------|----------|----|
-Ardentis | Lending, Borrowing (Morpho Fork) | ♦ EVM | Solidity | 7 (0C,1H,6M) | **Soon** |
+Mercuri Protocol | Uniswap V3 Pool Vault | ♦ EVM | Solidity | 4 (3C,0H,1M) | **[🔗](audit-reports/pdfs/MercuriFinance-MercuriProtocolContracts_Audit_Report.pdf)** |
+Blockwill | Defi Protocol | ♦ EVM | Solidity | 4 (0C,1H,3M) | **[🔗](audit-reports/pdfs/Blockwill_Final_Audit_Report.pdf)** |
+Ardentis | Lending, Borrowing (Morpho Fork) | ♦ EVM | Solidity | 7 (0C,1H,6M) | **[🔗](audit-reports/pdfs/Ardentis_Final_Audit_Report.pdf)** |
 HeyElsa | Staking | ♦ EVM | Solidity | 5 (0C,2H,3M) | **[🔗](audit-reports/pdfs/HeyElsa_Staking_Final_Audit_Report.pdf)** |
- ---
+
+---
 
  
 ## 📆 2025 Audits
