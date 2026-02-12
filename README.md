@@ -28,7 +28,7 @@ I have audited a wide range of protocols, including:
 | ----                                                                                  | ------               | ----------                   | ------ | --------|----|
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | Pump.Fun             | AMM                          | - |🦀 Solana |**Soon** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | Nucleus              | Vault Contract               | 8  (8L) | ♦ EVM      | **[🔗](audit-reports/pdfs/Nucleus-security-review_2026-02-03.pdf)** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | RAAC                 | Token and Minter Contract    | 10 (1M, 9L) | ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | RAAC                 | Token and Minter Contract    | 10 (1M, 9L)| ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits  | SpiceNet             | A Transaction Submission Api | - | Typescript |**Soon** |
 | <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam           | Prime Skills (Draft) | GameFi                       | 4  (2H, 2L) | 🦀 Solana  | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
 
