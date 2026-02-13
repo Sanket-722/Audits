@@ -26,7 +26,7 @@ I have audited a wide range of protocols, including:
 
 | Firm                                                                                  | Report               | Description                  | Findings |Lang/Ecosystem| 📑 |
 | ----                                                                                  | ------               | ----------                   | ------ | --------|----|
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Pump.Fun             | AMM                          | - |🦀 Solana |**Soon** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Pump.Fun             | AMM & Bounding Curve                         | - |🦀 Solana |**Soon** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Nucleus              | Vault Contract               | 8  (8L) | ♦ EVM      | **[🔗](audit-reports/pdfs/Nucleus-security-review_2026-02-03.pdf)** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | RAAC                 | Token and Minter Contract    | 10 (1M, 9L)| ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | SpiceNet             | A Transaction Submission Api | - | Typescript |**Soon** |
