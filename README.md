@@ -1,7 +1,7 @@
 # 0xRayaa's Security Portfolio
 
 I’m a security researcher specializing in **Solidity**, and **Rust** (Solana, CosmWasm) Smart Contract Audits, along with **Web2 application penetration testing**.  
-To date, I’ve conducted **100+ private audits**, including **15+ Rust audits 🦀**, discovered **120+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** which includes Bugcrowd, HackerOne, CVEs, and government platforms.
+To date, I’ve conducted **120+ private audits**, including **20+ Rust audits 🦀**, discovered **120+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** which includes Bugcrowd, HackerOne, CVEs, and government platforms.
 
 I have audited a wide range of protocols, including:  
 **DeFi protocols (AMMs, lending, borrowing), Staking vaults, NFT staking platforms, Tokenomics and reward mechanisms, Token launchers, Vesting and bonding curves, Cross-chain protocols, Governance modules, ERC20 & SPL tokens, Validator systems, Browser wallet extensions, Lottery mechanisms, and GameFi dApps (staking, lotteries, dice, slots).**
