@@ -11,6 +11,21 @@ I have audited a wide range of protocols, including:
 - Telegram: [@0xRayaa](https://t.me/OxRayaa)  
 
 ---
+## 🔐 Private Audits — Firm Engagement Review
+
+| Firm                                                                                  | Report               | Description                  | Findings |Lang/Ecosystem| 📑 |
+| ----                                                                                  | ------               | ----------                   | ------ | --------|----|
+<img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Nucleus              | Vault Contract               | - | ♦ EVM      | **Soon** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Polygun            | Prediction-market Trading Bot          | - | Typescript |**Soon** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Pump.Fun             | AMM & Bounding Curve          | 6 (1M, 5L) |🦀 Solana |**[🔗](audit-reports/pdfs/Pump-security-review_2026-02-09.pdf)** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Nucleus              | Vault Contract               | 8  (8L) | ♦ EVM      | **[🔗](audit-reports/pdfs/Nucleus-security-review_2026-02-03.pdf)** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | RAAC                 | Token and Minter Contract    | 10 (1M, 9L)| ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
+| <img src="Icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify Audits | Springx             | Vault and Pool staking | - | Solidity  | **[🔗](audit-reports/pdfs/SpringX-Security-Review.pdf)** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | SpiceNet             | A Transaction Submission Api | - | Typescript |**[🔗](audit-reports/pdfs/Spicenet-security-review_2026-01-12.pdf)** |
+| <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam          | Prime Skills (Draft) | GameFi                       | 4  (2H, 2L) | 🦀 Solana  | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
+
+
+---
 
 ## 🔎 Public Audits — Contests & Bug Bounties
 
@@ -20,19 +35,6 @@ I have audited a wide range of protocols, including:
 |   74   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 1             | 2      | ♦ EVM   |
 | 18   | <img src="Icons/codehawks.jpg" align="center" width=15 height=15> [Bid Beasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)    | NFT MarketPlace       | 2 | 2 | ♦ EVM   |
 |   20   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Calyx Smart Contract](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 0             | 1      | ♦ EVM   |
-
----
-## 🔐 Private Audits — Firm Engagement Review
-
-| Firm                                                                                  | Report               | Description                  | Findings |Lang/Ecosystem| 📑 |
-| ----                                                                                  | ------               | ----------                   | ------ | --------|----|
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Polygun            | Prediction-market Trading Bot          | - | Typescript |**Soon** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Pump.Fun             | AMM & Bounding Curve          | 6 (1M, 5L) |🦀 Solana |**[🔗](audit-reports/pdfs/Pump-security-review_2026-02-09.pdf)** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Nucleus              | Vault Contract               | 8  (8L) | ♦ EVM      | **[🔗](audit-reports/pdfs/Nucleus-security-review_2026-02-03.pdf)** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | RAAC                 | Token and Minter Contract    | 10 (1M, 9L)| ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
-| <img src="Icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify Audits | Springx             | Vault and Pool staking | - | Solidity  | **[🔗](audit-reports/pdfs/SpringX-Security-Review.pdf)** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | SpiceNet             | A Transaction Submission Api | - | Typescript |**[🔗](audit-reports/pdfs/Spicenet-security-review_2026-01-12.pdf)** |
-| <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam          | Prime Skills (Draft) | GameFi                       | 4  (2H, 2L) | 🦀 Solana  | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
 
 ---
 ## 🔐 Private Audits — CredShields <img src="Icons/credshields.png" align="center" width=35 height=35>
