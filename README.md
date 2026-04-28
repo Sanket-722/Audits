@@ -5,8 +5,16 @@ I'm a security researcher specializing in Smart Contract Audits across **Solidit
 **Smart Contract:** 130+ private audits · 150+ Critical/High vulnerabilities · 25+ Rust audits 🦀  
 **Web2:** 3 published CVEs · Critical/High findings at Stryker, Ivanti, BitGo, Decred, Tennessee Valley Authority & more · Active on Bugcrowd, HackerOne, and government platforms
 
-I have audited a wide range of protocols, including:  
-**DeFi protocols (AMMs, lending, borrowing), Staking vaults, NFT staking platforms, Tokenomics and reward mechanisms, Token launchers, Vesting and bonding curves, Cross-chain protocols, Governance modules, ERC20 & SPL tokens, Validator systems, Browser wallet extensions, Lottery mechanisms, GameFi dApps (staking, lotteries, dice, slots), StarkNet (Cairo), and DAML smart contracts.**
+**Protocols & mechanisms audited across:**
+
+| Category | Coverage |
+|----------|----------|
+| 🏦 **DeFi** | AMMs · Lending & Borrowing · Bonding Curves · Token Launchers · Vesting · Restaking |
+| 🥩 **Staking** | Staking Vaults · NFT Staking · Liquid Staking · Validator Systems · Reward Mechanisms |
+| 🎮 **GameFi** | Lottery · Dice · Slots · Roulette · Prediction Markets · NFT Marketplaces |
+| 🪙 **Tokens** | ERC20 · SPL Tokens · Tokenomics · Airdrop & Distribution · Governance Modules |
+| 🌉 **Infrastructure** | Cross-chain · Chain Abstraction · Interchain Messaging · Browser Wallet Extensions |
+| ⛓️ **Ecosystems** | EVM (Solidity) · Solana (Rust) · CosmWasm (Rust) · StarkNet (Cairo) · DAML |
 
 📩 Interested in working together?  
 - Twitter/X: [@0xRayaa](https://x.com/0xRayaa)  
