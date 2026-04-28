@@ -1,10 +1,12 @@
 # 0xRayaa's Security Portfolio
 
-I’m a security researcher specializing in **Solidity** and **Rust** (Solana, CosmWasm) Smart Contract Audits, along with **Web2 bug bounty hunting & penetration testing**.  
-To date, I’ve conducted **130+ private audits**, including **25+ Rust audits 🦀**, discovered **150+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** engagements, including Bugcrowd, HackerOne, CVEs, and government platforms.
+I’m a security researcher specializing in Smart Contract Audits across **Solidity**, **Rust** (Solana, CosmWasm), **Cairo** (StarkNet), and **DAML** — along with professional **Web2 bug bounty hunting & penetration testing**.
+
+**Smart Contract:** 130+ private audits · 150+ Critical/High vulnerabilities · 25+ Rust audits 🦀  
+**Web2:** 3 published CVEs · Critical/High findings at Stryker, Ivanti, BitGo, Decred, Tennessee Valley Authority & more · Active on Bugcrowd, HackerOne, and government platforms
 
 I have audited a wide range of protocols, including:  
-**DeFi protocols (AMMs, lending, borrowing), Staking vaults, NFT staking platforms, Tokenomics and reward mechanisms, Token launchers, Vesting and bonding curves, Cross-chain protocols, Governance modules, ERC20 & SPL tokens, Validator systems, Browser wallet extensions, Lottery mechanisms, and GameFi dApps (staking, lotteries, dice, slots).**
+**DeFi protocols (AMMs, lending, borrowing), Staking vaults, NFT staking platforms, Tokenomics and reward mechanisms, Token launchers, Vesting and bonding curves, Cross-chain protocols, Governance modules, ERC20 & SPL tokens, Validator systems, Browser wallet extensions, Lottery mechanisms, GameFi dApps (staking, lotteries, dice, slots), StarkNet (Cairo), and DAML smart contracts.**
 
 📩 Interested in working together?  
 - Twitter/X: [@0xRayaa](https://x.com/0xRayaa)  
