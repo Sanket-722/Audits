@@ -1,14 +1,14 @@
 # 0xRayaa's Security Portfolio
 
-I’m a security researcher specializing in **Solidity**, and **Rust** (Solana, CosmWasm) Smart Contract Audits, along with **Web2 application penetration testing**.  
-To date, I’ve conducted **120+ private audits**, including **20+ Rust audits 🦀**, discovered **120+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** which includes Bugcrowd, HackerOne, CVEs, and government platforms.
+I’m a security researcher specializing in **Solidity** and **Rust** (Solana, CosmWasm) Smart Contract Audits, along with **Web2 bug bounty hunting & penetration testing**.  
+To date, I’ve conducted **130+ private audits**, including **25+ Rust audits 🦀**, discovered **150+ Critical/High vulnerabilities**, and contributed to multiple **Web2 security** engagements, including Bugcrowd, HackerOne, CVEs, and government platforms.
 
 I have audited a wide range of protocols, including:  
 **DeFi protocols (AMMs, lending, borrowing), Staking vaults, NFT staking platforms, Tokenomics and reward mechanisms, Token launchers, Vesting and bonding curves, Cross-chain protocols, Governance modules, ERC20 & SPL tokens, Validator systems, Browser wallet extensions, Lottery mechanisms, and GameFi dApps (staking, lotteries, dice, slots).**
 
 📩 Interested in working together?  
-- Twitter/X: [@0xRayaa](https://x.com/OxRayaa)  
-- Telegram: [@0xRayaa](https://t.me/OxRayaa)  
+- Twitter/X: [@0xRayaa](https://x.com/0xRayaa)  
+- Telegram: [@0xRayaa](https://t.me/0xRayaa)  
 
 ---
 ## 🔐 Private Audits — Firm Engagement Review
@@ -17,11 +17,11 @@ I have audited a wide range of protocols, including:
 | ----                                                                                  | ------               | ----------                   | ------ | --------|----|
 <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Nucleus              | Vault Contract               | - | ♦ EVM      | **Soon** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Polygun            | Prediction-market Trading Bot          | - | Typescript |**Soon** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Pump.Fun             | AMM & Bounding Curve          | 6 (1M, 5L) |🦀 Solana |**[🔗](audit-reports/pdfs/Pump-security-review_2026-02-09.pdf)** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Pump.Fun             | AMM & Bonding Curve           | 6 (1M, 5L) |🦀 Solana |**[🔗](audit-reports/pdfs/Pump-security-review_2026-02-09.pdf)** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | Nucleus              | Vault Contract               | 8  (8L) | ♦ EVM      | **[🔗](audit-reports/pdfs/Nucleus-security-review_2026-02-03.pdf)** |
 | <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | RAAC                 | Token and Minter Contract    | 10 (1M, 9L)| ♦ EVM      | **[🔗](audit-reports/pdfs/RegnumAurum-security-review_2026-01-23.pdf)**  |
 | <img src="Icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify Audits | Springx             | Vault and Pool staking | - | Solidity  | **[🔗](audit-reports/pdfs/SpringX-Security-Review.pdf)** |
-| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | SpiceNet             | A Transaction Submission Api | - | Typescript |**[🔗](audit-reports/pdfs/Spicenet-security-review_2026-01-12.pdf)** |
+| <img src="Icons/pashov%20team.jpeg" align="center" width=15 height=15> Pashov Audits | SpiceNet             | A Transaction Submission API | - | Typescript |**[🔗](audit-reports/pdfs/Spicenet-security-review_2026-01-12.pdf)** |
 | <img src="Icons/superteam.jpg" align="center" width=15 height=15> Superteam          | Prime Skills (Draft) | GameFi                       | 4  (2H, 2L) | 🦀 Solana  | **[🔗](audit-reports/pdfs/WAGER_PROGRAM_SMART_CONTRACT_AUDIT%20(1).pdf)** |
 
 
@@ -29,7 +29,7 @@ I have audited a wide range of protocols, including:
 
 ## 🔎 Public Audits — Contests & Bug Bounties
 
-| Rank | Report | Description |Critical/High | Medium |LangEcosystem|
+| Rank | Report | Description | Critical/High | Medium | Lang/Ecosystem |
 | ---- | ------ | ---------- | ------ | -----------| --------|
 |   50   | <img src="Icons/sherlock.jpg" align="center" width=15 height=15> [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)  | AMM, Uniswap V4 Hooks | 1             | 1      | ♦ EVM   |
 |   74   | <img src="Icons/Hackenproof.svg" align="center" width=15 height=15> [Rain Smart Contract Audit Contest](https://hackenproof.com/hackers/0xRayaa?tab=programs) | Decentralized Prediction Markets Protocol  | 1             | 2      | ♦ EVM   |
@@ -70,8 +70,6 @@ HeyElsa | Staking | ♦ EVM | Solidity | 5 (0C,2H,3M) | **[🔗](audit-reports/p
  Fomodotbiz | AMM, Bonding Curve | ♦ EVM | Solidity | 6 (3C,0H,3M) | **[🔗](audit-reports/pdfs/Fomodotbiz_Final_Audit_Report.pdf)** |
  Safle Network | Cross-chain unified identity management | ♦ EVM | Solidity | 6 (2C,1H,3M) | **[🔗](audit-reports/pdfs/Safle_Final_Audit_Report.pdf)** |
  LERN360 | ERC20 | ♦ EVM | Solidity | 4 (0C,2H,0M,2L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/LERNToken_Final_Audit_Report.pdf)** |
- Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 9 (6C,0H,3M) | **Soon** |
- Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | Rust | 5 (4C,0H,1M) | **Soon** 
  BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 (2C,0H,3M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)** |
  mew.gg | AMM | ♦ EVM | Solidity | 11 (0C,1H,0M,10L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/mew.gg_Contracts_Final_Audit_Report.pdf)** |
  Manadotwin | Vesting, Bonding Curve | ♦ EVM | Solidity | 5 (2C,1H,2M,0L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Manadotwin_Final_Audit_Report.pdf)** |
@@ -104,9 +102,7 @@ HeyElsa | Staking | ♦ EVM | Solidity | 5 (0C,2H,3M) | **[🔗](audit-reports/p
  AllinGames: Seven Up Seven Down | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 5 (0C,0H,0M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Seven_Up_Seven_Down_Final_Audit_Report.pdf)** |
  AllinGames: Slot | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 4 (0C,0H,0M,4L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Slots_Final_Audit_Report.pdf)** |
  AllinGames: Roulette | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 (0C,0H,0M,2L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf)** |
- Arcana: Browser Extenstion | Wallet | ♦ EVM | Solidity | 5 (0C,0H,1M,4L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Arcana_Wallet_Final_Audit_Report.pdf)** |
  Lara Protocol | Staking | ♦ EVM | Solidity | 13 (0C,0H,5M,8L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lara_Liquid_Staking_Final_Audit_Report.pdf)** |
- Arcana Staking | Staking | ♦ EVM | Solidity | 11 (0C,1H,0M,10L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Arcana_Staking_Contract_Final_Audit_Report.pdf)** |
  Tribally Games | GameFi | ♦ EVM | Solidity | 6 (0C,1H,0M,5L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)** |
 
  <!-- 
@@ -155,4 +151,4 @@ _Public contest portfolio (coming soon):_
 | — | — | — | — | — | — |
 --->
 ---
-**Last updated: 2026**
+**Last updated: April 2026**
